@@ -1,0 +1,13 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+#define GAME_WIDTH 1200
+#define GAME_HEIGHT 800
+#define SQUARE_WIDTH 80
+#define SQUARE_HEIGHT 100
+#define GAME_RATE 10
+#define GAMETIME 100
+#define BLOCKNUMBER 5
+#define DROPNUMBER 15
+#define BUTTON_WIDTH 121
+#define BUTTON_HEIGHT 121
+#endif // CONFIG_H
